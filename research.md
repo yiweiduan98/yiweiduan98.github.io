@@ -25,6 +25,9 @@ title: Research
 
 - “State Appropriations and Higher Education Migration”
 
+- “The Impact of Out-of-state Enrollment on International
+Enrollment in Public Universities”
+
 <!-- - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br> -->
@@ -35,7 +38,10 @@ title: Research
 
 ## Policy Brief 
 
-TBA.
+- [“Adult Learners’ Postsecondary Enrollment and
+Academic Outcomes in Georgia”](https://scholarworks.gsu.edu/gpl_reports/43/). Georgia Policy Labs, 2. 2023.
+(with Iris Feinberg, Daphne Greenberg, Thomas Kouwe,
+David C. Ribar, and Jonathan Smith)
 
 <br>
 
