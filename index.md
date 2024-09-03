@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://yiweiduan98.github.io/professional_pic.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yiwei Duan (Adeline, 段屹蔚)**.
+My name is **Yiwei Duan (Adeline, 段屹蔚)**.
 
 I am a PhD candidate at the economics department of Georgia State University. I serve as a research assistant at the [Georgia Policy Labs](https://gpl.gsu.edu/), adviced by [Dr. Jonathan Smith](https://sites.google.com/site/jonathansmithphd/).
 
