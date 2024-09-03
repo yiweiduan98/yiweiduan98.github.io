@@ -1,18 +1,18 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /research/index.html
+title: Research
 ---
 
-> Update: 3rd August 2024
+> Update: Sept. 3rd 2024
 >
-> (†: equal contribution, ~: corresponding author)
+<!-- > (†: equal contribution, ~: corresponding author) -->
 
-## Conference Paper
+<!-- ## Conference Paper
 
 - BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
 
-  <br>
+  <br> -->
 
 
 ---
@@ -27,7 +27,7 @@ title: Publications
 
 ---
 
-## Manuscript
+## Policy Brief 
 
 TBA.
 
@@ -35,7 +35,7 @@ TBA.
 
 ---
 
-## Early Project
+<!-- ## Early Project
 
 - [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
 
@@ -43,4 +43,4 @@ TBA.
 
 - An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
 
-  <br>
+  <br> -->
