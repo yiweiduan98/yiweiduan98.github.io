@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cn/index.html
+permalink: /cn_about/index.html
 title: 主页中文版
 ---
 
