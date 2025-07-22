@@ -26,11 +26,12 @@ I'm a PhD Candidate in Economics at Georgia State University, actively engaged i
 ## Research Interests
 
 - Economics of Education
-- Labor Economics
+    - Postsecondary Education
+    - Career-oriented education 
 - Experimental Economics
 - Public Policy
 
-My research focuses on access to post-secondary education among under studied groups. Among my projects are creating an index that is based on other states' appropriation for higher education to predict the number of out-of-state students in a state, investigating whether public universities treat international students and domestic out-of-state students as substitutes each other and whether exposing adult education students in and post-secondary environment will increase their likelihood of enrolling in a post-secondary program.	
+I'm an applied economist passionate about **post-secondary education**, with a particular focus on **access for underrepresented groups**. My current research explores how state funding impacts out-of-state enrollment, whether universities substitute international for domestic out-of-state students, and if exposing adult education students to post-secondary environments increases their enrollment likelihood. Moving forward, I aim to expand my work to include **career-oriented education**, examining how both higher education and technical colleges can better align with evolving labor market demands, especially given rapid technological advancements like AI. I'm keen to investigate how policies can reshape curricula and how educators should respond to prepare students for the future workforce.
 
 <!-- practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
