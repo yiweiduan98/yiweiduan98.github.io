@@ -4,7 +4,7 @@ permalink: /cn_research/index.html
 title: Research
 ---
 
-> Update: Jul. 22, 2025
+> 最后更新：2025年7月22日
 >
 <!-- > (†: equal contribution, ~: corresponding author) -->
 
@@ -36,7 +36,7 @@ Enrollment in Public Universities”
 
 ---
 
-## Policy Brief 
+## 政策分析报告
 
 - [“Adult Learners’ Postsecondary Enrollment and
 Academic Outcomes in Georgia”](https://scholarworks.gsu.edu/gpl_reports/43/). Georgia Policy Labs, 2. 2023.
