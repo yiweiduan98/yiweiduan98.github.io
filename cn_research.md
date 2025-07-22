@@ -15,13 +15,13 @@ title: Research
   <br> -->
 ---
 
-## Working Paper
+## 工作论文
 
 - “Colocation and Adult Education Learners' Post-Secondary Enrollment”
 
 ---
 
-## Work in Progress
+## 进展中项目
 
 - “State Appropriations and Higher Education Migration”
 
@@ -40,8 +40,8 @@ Enrollment in Public Universities”
 
 - [“Adult Learners’ Postsecondary Enrollment and
 Academic Outcomes in Georgia”](https://scholarworks.gsu.edu/gpl_reports/43/). Georgia Policy Labs, 2. 2023.
-(with Iris Feinberg, Daphne Greenberg, Thomas Kouwe,
-David C. Ribar, and Jonathan Smith)
+(与 Iris Feinberg, Daphne Greenberg, Thomas Kouwe,
+David C. Ribar, 以及 Jonathan Smith 合著)
 
 <br>
 
