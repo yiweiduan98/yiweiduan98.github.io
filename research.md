@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-> Update: Sept. 3rd, 2024
+> Update: Jul. 22, 2025
 >
 <!-- > (†: equal contribution, ~: corresponding author) -->
 
